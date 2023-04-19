@@ -1,7 +1,3 @@
-# Heading 1
-## Heading 2
-<!DOCTYPE html>
-
 <html>
 
 <head>
